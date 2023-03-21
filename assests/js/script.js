@@ -52,7 +52,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Data Science", "Machine Learning", "Artificial Intelligence", "Computational Intelligence", "Quantum Computing", "Open Source"],
+    strings: ["Artificial Intelligence", "Computational Intelligence", "Quantum Computing", "Open Source"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
